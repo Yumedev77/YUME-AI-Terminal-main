@@ -5,7 +5,7 @@
 
 YUMEAI is a modern, responsive AI chat assistant built with React, TypeScript, and Supabase. It provides a seamless conversational interface with a beautiful, minimalist design.
 
-Visit: https://YUMEi.app
+
 
 ## Features
 
